@@ -1,0 +1,11 @@
+src/ios/libepos2.a filter=lfs diff=lfs merge=lfs -text
+src/android/armeabi-v7a/libeposeasyselect.so filter=lfs diff=lfs merge=lfs -text
+src/android/armeabi/libepos2.so filter=lfs diff=lfs merge=lfs -text
+src/android/x86/libeposeasyselect.so filter=lfs diff=lfs merge=lfs -text
+src/android/arm64-v8a/libepos2.so filter=lfs diff=lfs merge=lfs -text
+src/android/arm64-v8a/libeposeasyselect.so filter=lfs diff=lfs merge=lfs -text
+src/android/armeabi-v7a/libepos2.so filter=lfs diff=lfs merge=lfs -text
+src/android/armeabi/libeposeasyselect.so filter=lfs diff=lfs merge=lfs -text
+src/android/x86/libepos2.so filter=lfs diff=lfs merge=lfs -text
+src/android/x86_64/libepos2.so filter=lfs diff=lfs merge=lfs -text
+src/android/x86_64/libeposeasyselect.so filter=lfs diff=lfs merge=lfs -text

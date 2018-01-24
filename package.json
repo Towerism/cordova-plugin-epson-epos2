@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-epson-epos2",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-epson-epos2",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/towerism/cordova-plugin-epson-epos2"
+  },
+  "keywords": [
+    "cordova",
+    "apache",
+    "ecosystem:cordova",
+    "cordova:platform",
+    "epos2",
+    "epson",
+    "printer"
+  ],
+  "license": "MIT",
+  "description": "Cordova Plugin integrating the Epson ePOS2 SDK for iOS and Android"
+}
