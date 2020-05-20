@@ -61,7 +61,7 @@ static NSDictionary *printerTypeMap;
     
     Epos2FilterOption *filteroption_ = [[Epos2FilterOption alloc] init];
     [filteroption_ setDeviceType:EPOS2_TYPE_PRINTER];
-    [filterOption_ setDeviceModel:EPOS2_MODEL_ALL];
+    [filteroption_ setDeviceModel:EPOS2_MODEL_ALL];
     
     result = [Epos2Discovery start:filteroption_ delegate:self];
     if (EPOS2_SUCCESS != result) {
