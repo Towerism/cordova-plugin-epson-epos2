@@ -13,7 +13,7 @@ Install
 -------
 
 ```
-cordova plugin add cordova-plugin-epos2
+cordova plugin add cordova-plugin-epson-epos2
 ```
 
 API
