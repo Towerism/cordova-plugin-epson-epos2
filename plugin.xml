@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="cordova-plugin-epos2"
+    id="cordova-plugin-epson-epos2"
     version="1.0.0">
     <name>Cordova Plugin ePOS2</name>
     <description></description>
